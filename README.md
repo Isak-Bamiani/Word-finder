@@ -12,7 +12,7 @@ The project is inside the Word-finder repository, just clone Solver-Final as a p
 4. Output will be appended to the “results.txt” file in the same directory
 ![img_3.png](img_3.png)
 
-# Task description Task:
+# Task description:
 - Write a short command-line program which takes some input, reads a couple of files, solves the problem and prints the solution to screen.
   try bouns tasks as well!
 
@@ -66,7 +66,7 @@ What was the main focus for me:
 - Ability to understand and reflect upon own code and improvements
 
 **Bonus**:
-- What 16 letter word is hidden in the 1000x1000 grid?
+-- What 16 letter word is hidden in the 1000x1000 grid?
 - Google check style.
 - Write solution to disk.
 - No third-party library other than for tests.

@@ -1,5 +1,5 @@
 # Word-finder
-A vey good task to do for learning more about storing in and searching through different data structures. 
+An incredibly good task to do for learning more about storing and searching data using different data structures. 
 Using datastructure lik Trie and HashSet that uses a hash table for storage. 
 
 # How to run 

@@ -10,11 +10,11 @@ The project is inside the Word-finder repository, just clone Solver-Final as a p
 3. Run the program using “java Solver <grid-file> <words-file> <min-count>”
    a.  E.g : java Solver grid10x10.txt words.txt 3
 4. Output will be appended to the “results.txt” file in the same directory
-![img_3.png](img_3.png)
+
 
 # Task description:
 - Write a short command-line program which takes some input, reads a couple of files, solves the problem and prints the solution to screen.
-  try bouns tasks as well!
+  There is several bouns tasks as well!
 
 - **Problem**:
   We want to find all the words with a given length hidden in

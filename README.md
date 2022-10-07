@@ -1,6 +1,6 @@
 # Word-finder
 An incredibly good task to do for learning more about storing and searching data using different data structures. 
-Using datastructure lik Trie and HashSet that uses a hash table for storage. 
+Implementing datastructure lik Trie and HashSet that uses a hash table for storage. 
 
 # How to run 
 The project is inside the Word-finder repository, just clone Solver-Final as a project
@@ -59,11 +59,7 @@ Word file format:
 - A newline character ("\n") separates each word.
 
 What was the main focus for me:
-- Ability to solve the problem.
-- Creativity and knowledge in how you solve the problem.
-- Readability of the code (try to keep it simple).
-- Anything from the bonus section counting as extra points
-- Ability to understand and reflect upon own code and improvements
+- Readability of the code (try to keep it simple)
 
 **Bonus**:
 -- What 16 letter word is hidden in the 1000x1000 grid?

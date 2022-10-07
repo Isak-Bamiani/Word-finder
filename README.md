@@ -27,9 +27,9 @@ The project is inside the Word-finder repository, just clone Solver-Final as a p
 Example:
 Given this 3x3 grid:
 
-jop
-shn
-tvq
+j  o  p <br/>
+s  h  n  <br/>
+t  v  q  <br/>
 
 With a minimum length of 3 characters, you'll want to find
 these words in the grid and list them in the following
